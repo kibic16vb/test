@@ -1,1 +1,2 @@
 pierwszy commit
+commit na brachu fix_bug
