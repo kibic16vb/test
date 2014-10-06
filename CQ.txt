@@ -1,2 +1,3 @@
 fix z CQ
 poprawka
+test
