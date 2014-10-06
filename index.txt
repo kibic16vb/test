@@ -4,3 +4,4 @@ commit na brachu fix_bug
 dalsze fixowanie
 cos z brancha cq
 dodany branch iss1
+dodatkowy komit na branchu iss1
